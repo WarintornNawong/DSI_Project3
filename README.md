@@ -22,6 +22,16 @@ The datasource is retrived from "Reddit API" with the following items,
 | text         | text within subreddit post |
 
 
+# Model Development Plan
+
+1. Research and Data Exploring.
+2. Data Gathering.
+3. Scenario Analysis.
+4. Model-Fine Tuning.
+5. Performance & Reliability Test.
+6. "Go Live"
+
+
 
 
 
