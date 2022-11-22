@@ -49,7 +49,7 @@ To improve model applicability, We established the reliability improvement journ
 
 After performing model as per timeline, the final model has been summarized in the following picture in two forms - **Predicted Model - Multinomial Naive Bayes  ** is the model whihc has been applied for fake news prediction and **Explained Model - Logistic Regression** is the model to deliver the coefficient for explaination purpose. 
 
-![image](https://user-images.githubusercontent.com/104628789/203234613-a633ab9f-ee02-4018-87a8-7128191a7ae4.png)
+![image](https://user-images.githubusercontent.com/104628789/203234693-77bcbd99-c76f-4a2e-aa38-aa9d6ad3c089.png)
 
 
 ## Way Forward
