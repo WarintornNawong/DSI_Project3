@@ -32,7 +32,7 @@ The data is filtered in the contemporary topics i.e. President Joe Biden, Trump 
 
 The Key Main Statistics about fake and real news dataset.
 
-![image](https://user-images.githubusercontent.com/104628789/203234273-fb876c0b-f12a-4b5c-8023-52dacede8597.png)
+![image](https://user-images.githubusercontent.com/104628789/203234803-c4055011-2069-4d1d-b9cb-3ad37777836f.png)
 
 
 
