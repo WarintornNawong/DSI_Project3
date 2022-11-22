@@ -4,9 +4,9 @@
 To eliminate Fake News in Reddit Subreddit to avoid being posted by the malicious people to delude or take advantage of the fake news such as political or diplomatic activities.
 
 ## Why does ‘Fake News’ matters?
-1. More than 26.0 % SHARE OF AMERICAN VERY CONFIDENT IN THEIR ABILITY TO RECOGNIZE FAKE.
-2. 67.0 % AMERICANS WHO BELIEVE FAKE NEWS CAUSES A GREAT DEAL OF CONFUSION.
-3. 38.2 %AMERICANS WHO ACCIDENTALLY SHARED FAKE NEWS.
+
+![image](https://user-images.githubusercontent.com/104628789/203228829-f7c972f1-daec-4ff9-ba22-d5edbe0d7b9e.png)
+
 
 ## Data Dictionary
 
@@ -20,6 +20,11 @@ The datasource is retrived from "Reddit API" with the following items,
 | name         | name of the user           |
 | title        | title of subreddit post    |
 | text         | text within subreddit post |
+
+
+The data is filtered in the contemporary topics i.e. President Joe Biden, Trump , Queen Elizabeht, War in Russia Ukrain etc. to ensure that the fake and real have the same issue within the same timeline for reddit
+
+![image](https://user-images.githubusercontent.com/104628789/203228424-8889a59b-26b2-450d-99b3-8f5b4265d30a.png)
 
 
 # Model Development Plan
