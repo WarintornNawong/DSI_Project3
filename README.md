@@ -59,17 +59,16 @@ Logistic Regression Coefficients
 
 # Final Model Summary
 
-Confusion Matrix
+After performing model as per timeline, the final model has been summarized in the following picture in two forms - **Predicted Model - Multinomial Naive Bayes  ** is the model whihc has been applied for fake news prediction and **Explained Model - Logistic Regression** is the model to deliver the coefficient for explaination purpose. 
 
-![image](https://user-images.githubusercontent.com/104628789/195743272-db054e2a-9e18-474b-be9c-a5f29f9d0b42.png)
+![image](https://user-images.githubusercontent.com/104628789/203230503-d0202af1-4dc7-49f2-8a99-9121757e26f5.png)
 
-Best Parameter
+## Way Forward
 
-Max Features : 1000 
-Min DF : 1
-N-Gram Analysis : (1,1)
+In order to address the weakness of model issue, I would like to propose the four main area for the further improvement.
 
-![image](https://user-images.githubusercontent.com/104628789/195743352-c94c7ff8-d814-48be-8eca-849e4dac9834.png)
+![image](https://user-images.githubusercontent.com/104628789/203229709-f683fd8f-d94a-4973-8bec-d3d0755e91c8.png)
+
 
 
 
