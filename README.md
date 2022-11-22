@@ -11,6 +11,7 @@ To eliminate Fake News in Reddit Subreddit to avoid being posted by the maliciou
 ## Data Dictionary
 
 The datasource is retrived from "Reddit API" with the following items,
+
 1. **Fake News** : (r/fakenews, r/AteTheOnion, r/TheOnion)
 2. **Real News** : (r/news, r/worldnews, r/UpliftingNews, r/Coronavirus)
 
@@ -48,13 +49,15 @@ TOP Commons Words
 
 # First Trial-Model
 
-Confusion Matrix
 
-![image](https://user-images.githubusercontent.com/104628789/195743039-5c951a41-1dd3-4d0d-9a2b-9827378c5665.png)
 
-Logistic Regression Coefficients
+# Reliability improvement Journey
 
-![image](https://user-images.githubusercontent.com/104628789/195743088-4516de17-10c2-44da-8b1b-3a1620cb71e2.png)
+To improve model applicability, We established the reliability improvement journey to find the most reliability model for fake news detection.
+
+![image](https://user-images.githubusercontent.com/104628789/203233887-28321d94-eff9-49d5-8eb1-362897121d18.png)
+
+
 
 
 # Final Model Summary
