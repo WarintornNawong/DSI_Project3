@@ -28,26 +28,11 @@ The data is filtered in the contemporary topics i.e. President Joe Biden, Trump 
 ![image](https://user-images.githubusercontent.com/104628789/203228424-8889a59b-26b2-450d-99b3-8f5b4265d30a.png)
 
 
-# Model Development Plan
-
-1. Research and Data Exploring.
-2. Data Gathering.
-3. Scenario Analysis.
-4. Model-Fine Tuning.
-5. Performance & Reliability Test.
-6. "Go Live"
-
 # Final Dataset Stistics.
 
-The proportion between “Fake News” and “Real News”.
+The Key Main Statistics about fake and real news dataset.
 
-![image](https://user-images.githubusercontent.com/104628789/195742861-e6a4e82e-b003-4d5e-8420-f2c5c782becc.png)
-
-TOP Commons Words
-
-![image](https://user-images.githubusercontent.com/104628789/195742919-16bfe675-266d-4274-831c-bdcc24aa2739.png)
-
-# First Trial-Model
+![image](https://user-images.githubusercontent.com/104628789/203234273-fb876c0b-f12a-4b5c-8023-52dacede8597.png)
 
 
 
@@ -64,7 +49,8 @@ To improve model applicability, We established the reliability improvement journ
 
 After performing model as per timeline, the final model has been summarized in the following picture in two forms - **Predicted Model - Multinomial Naive Bayes  ** is the model whihc has been applied for fake news prediction and **Explained Model - Logistic Regression** is the model to deliver the coefficient for explaination purpose. 
 
-![image](https://user-images.githubusercontent.com/104628789/203230503-d0202af1-4dc7-49f2-8a99-9121757e26f5.png)
+![image](https://user-images.githubusercontent.com/104628789/203234613-a633ab9f-ee02-4018-87a8-7128191a7ae4.png)
+
 
 ## Way Forward
 
